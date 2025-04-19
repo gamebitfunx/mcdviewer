@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # mcd_viewer
 
 mcd_viewer is a PlayStation 2 memory card manager for use with .mc2 files created by the PSXMemCard GEN2.
@@ -72,8 +72,6 @@ Perform operations such as adding, deleting, and exporting content in the MCD.
 - Extract File
 - Add New Folder
 - Delete Folder
-
-=======
-# mcdviewer
-mcd_viewer is a PlayStation 2 memory card manager for use with .mc2 files created by the PSXMemCard GEN2
->>>>>>> e3415f59060ceac2d1da32714e0c9ca5f8a19c24
+![](source/01.png)
+![](source/02.png)
+![](source/03.png)
