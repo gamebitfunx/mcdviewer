@@ -1,7 +1,7 @@
 
 # mcd_viewer
 
-mcd_viewer is a PlayStation 2 memory card manager for use with .mc2 files created by the PSXMemCard GEN2.
+mcd_viewer is a PlayStation 2 memory card manager for use with .mcd files created by the PSXMemCard GEN2.
 
 It is based on [mymc+](https://git.sr.ht/~thestr4ng3r/mymcplus) by Florian Märkl and the classic [mymc](http://www.csclub.uwaterloo.ca:11068/mymc/) utility created by Ross Ridge.
 
