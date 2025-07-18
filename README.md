@@ -5,6 +5,10 @@ mcd_viewer is a PlayStation 2 memory card manager for use with .mcd files create
 
 It is based on [mymc+](https://git.sr.ht/~thestr4ng3r/mymcplus) by Florian Märkl and the classic [mymc](http://www.csclub.uwaterloo.ca:11068/mymc/) utility created by Ross Ridge.
 
+### Welcome to our discussion group!
+
+https://discord.com/invite/URYzv755VC
+
 ### How to build:
 
 #### First check if PyInstaller is installed
